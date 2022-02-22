@@ -7,6 +7,8 @@ import static org.junit.Assert.*;
 
 public class CalculatorTestThorough {
 
+    //comment for pushed change
+
     @Test
     public void addTest(){
         Calculator myCalculator = new Calculator();
