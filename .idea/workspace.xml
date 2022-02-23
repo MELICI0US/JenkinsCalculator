@@ -14,12 +14,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,12 +54,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\test\java" />
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JenkinsCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in JenkinsCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -71,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in JenkinsCalculator" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
@@ -111,22 +131,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="980" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1645249278428" />
-    <state width="754" height="219" key="GridCell.Tab.0.bottom" timestamp="1645251606308">
+    <state width="754" height="221" key="GridCell.Tab.0.bottom" timestamp="1645594695627">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="219" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1645251606308" />
-    <state width="754" height="219" key="GridCell.Tab.0.center" timestamp="1645251606308">
+    <state width="754" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1645594695627" />
+    <state width="754" height="221" key="GridCell.Tab.0.center" timestamp="1645594695626">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="219" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1645251606308" />
-    <state width="754" height="219" key="GridCell.Tab.0.left" timestamp="1645251606307">
+    <state width="754" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1645594695626" />
+    <state width="754" height="221" key="GridCell.Tab.0.left" timestamp="1645594695626">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="219" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1645251606307" />
-    <state width="754" height="219" key="GridCell.Tab.0.right" timestamp="1645251606308">
+    <state width="754" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1645594695626" />
+    <state width="754" height="221" key="GridCell.Tab.0.right" timestamp="1645594695626">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="219" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1645251606308" />
+    <state width="754" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1645594695626" />
     <state x="808" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1645552015065">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
